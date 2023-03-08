@@ -18,3 +18,11 @@ Starting with a topic sentense, it helps reader:
 
 At the same, it helps writer:
 * emphasize the impartant information
+
+## 2.5 - Connecting paragraphes
+Main points:
+* Create a logical paragraph by connecting the vertical and horizontal part
+* Clear connect from vertical and horizontal increase the logical flow of the sentence
+* Connecting paragraph using topic sentense
+  * If vertical, use handover type
+  * If horizontal, use expansion type
