@@ -1,6 +1,21 @@
 # Part 2 - Paragraph Writing
 
 ## 1 - Starting with a conclusion
+Main points:
+* In writing, we start with summary paragraph.
+* When the summary paragraph is at the beginning, it helps:
+  * decide whether to continue to read
+  * detail is also easier to understand
+* By learning the patterns of summary paragraph, we can easily write it
+
+### 1.3 - Why is it important? (/Effectiveness)
+By writing with summary paragraph, it help reader:
+* decide whether or not to read the detail
+* understand the detail faster and easier
+* confirm the correctness of the proof while reading
+
+It also helps writer:
+* emphasize the important information 
 
 ## 2 - One paragraph one topic
 Main points: 
@@ -8,7 +23,7 @@ Main points:
 * Topic and layout are the same, easier to understand the logic of writing
 * In each paragraph, it should contain around 4-8 sentences. 
 
-### 2.3 - Why is it important?
+### 2.3 - Why is it important? (/Effectiveness)
 When paragraph is used in writing, it help reader:
 * understand the logic clearly
 * read faster
@@ -27,7 +42,7 @@ Main points:
 
 ### 3.2 - Example
 
-### 3.3 - Why is it important?
+### 3.3 - Why is it important? (/Effectiveness)
 Starting with a topic sentense, it helps reader:
 * Decide whether to skip reading the detail
 * Understand easily the detail
@@ -51,7 +66,7 @@ Main points:
 * By doing so, the flow of information get better, make it easier to understand since we read from beginning.
 * From old to new information, there are three patterns.
 
-### 7.4 - Tips
+### 7.4 - Writing tips
 To connect old to new information in the paragraph, there are three patterns
 * Handover type: vertical connection
 * Expansion type: horizontal connection
